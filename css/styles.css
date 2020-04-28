@@ -11,6 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
+  --main_color: #0026ff;
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -7323,6 +7324,8 @@ button.bg-dark:focus {
 }
 
 .fixed-top {
+  /* top bar */
+  background-color: #0026ff;
   position: fixed;
   top: 0;
   right: 0;
@@ -7890,6 +7893,11 @@ button.bg-dark:focus {
 .ml-auto,
 .mx-auto {
   margin-left: auto !important;
+}
+
+.ml-mine,
+.mx-mine {
+  margin: auto;
 }
 
 @media (min-width: 576px) {
@@ -10041,13 +10049,14 @@ h3 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: var(--gray);
+  /* color: #0026ff ; */
+  color: white;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: var(--gray);
+  color: #0026ff ;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10069,11 +10078,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: var(--gray);
+    background: #0026ff ;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: var(--gray);
+    background:#0026ff ;
   }
 
   #mainNav.navbar-shrink {
@@ -10152,7 +10161,7 @@ h3 {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: var(--gray);
+  color: #0026ff ;
   opacity: 1;
 }
 
