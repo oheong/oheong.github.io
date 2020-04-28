@@ -37,7 +37,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  font-family: 'Do Hyeon', sans-serif;
+  --font-family: 'Do Hyeon', sans-serif;
 }
 
 *,
@@ -537,6 +537,7 @@ pre code {
 }
 
 .container {
+  font: var(--font-family);
   width: 100%;
   padding-right: 1.5rem;
   padding-left: 1.5rem;
