@@ -2451,32 +2451,38 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
+  font-family: sans-serif;
   color: #fff;
   background-color: var(--blue);
   border-color: var(--blue);
 }
 .btn-primary:hover {
+  font-family: sans-serif;
   color: #fff;
   background-color: var(--blue);
   border-color: var(--blue);
 }
 .btn-primary:focus, .btn-primary.focus {
+  font-family: sans-serif;
   color: #fff;
   background-color: var(--blue);
   border-color:var(--blue);
   box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
+  font-family: sans-serif;
   color: #fff;
   background-color: var(--blue);
   border-color: var(--blue);
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+  font-family: sans-serif;
   color: #fff;
   background-color: var(--blue);
   border-color: var(--blue);
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  font-family: sans-serif;
   box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
 }
 
