@@ -158,12 +158,12 @@ sup {
 }
 
 a {
-  color: #e6e0b2;
+  color: white;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #e6e0b2;
+  color: white;
   text-decoration: underline;
 }
 
