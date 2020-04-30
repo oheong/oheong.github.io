@@ -390,7 +390,7 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  
+
 }
 
 .lead_contact {
@@ -7470,6 +7470,10 @@ button.bg-dark:focus {
   background-color: rgba(0, 0, 0, 0);
 }
 
+.popup_font_size {
+  font-size: 1.3rem;
+}
+
 .m-0 {
   margin: 0 !important;
 }
@@ -10131,6 +10135,7 @@ h3 {
   }
 }
 .portfolio .portfolio-item {
+  font-size: 1.25rem;
   text-align: center;
   cursor: pointer;
   position: relative;
@@ -10151,7 +10156,7 @@ h3 {
   opacity: 1;
 }
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
-  font-size: 1.5rem;
+  font-size: 1.5em;
 }
 
 .portfolio-modal .portfolio-modal-title {
