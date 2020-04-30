@@ -390,6 +390,13 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  
+}
+
+.lead_contact {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 300;
 }
 
 .display-1 {
@@ -10124,6 +10131,7 @@ h3 {
   }
 }
 .portfolio .portfolio-item {
+  text-align: center;
   cursor: pointer;
   position: relative;
   display: block;
