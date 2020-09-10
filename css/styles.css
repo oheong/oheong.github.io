@@ -10514,6 +10514,7 @@ a.text-dark:focus {
   display: block;
   max-width: 25rem;
   border-radius: 0.5rem;
+  border: white 5px solid;
   overflow: hidden;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
