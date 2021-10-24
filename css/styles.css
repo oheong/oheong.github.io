@@ -8,10 +8,10 @@
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/twbㅊs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --main_color: #0026ff;
+  --main_color: #5c5e6b2c;
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -6428,7 +6428,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #0026ff !important;
+  background-color: #535c8f !important;
 }
 
 .bg-primary1 {
@@ -7692,7 +7692,7 @@ button.bg-dark:focus {
 
 .fixed-top {
   /* top bar */
-  background-color: #0026ff;
+  background-color: #535c8f;
   position: fixed;
   top: 0;
   right: 0;
@@ -10429,7 +10429,7 @@ a.text-dark:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  /* color: #0026ff ; */
+  /* color: #535c8f ; */
   color: rgb(170, 170, 170);
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active,
@@ -10437,7 +10437,7 @@ a.text-dark:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  /* color: #0026ff ; */
+  /* color: #535c8f ; */
   color: rgb(170, 170, 170);
 }
 #mainNav .navbar-toggler {
@@ -10460,14 +10460,14 @@ a.text-dark:focus {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #0026ff;
+    background: #535c8f;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active,
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus,
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     /* color: #fff; */
     color: rgb(170, 170, 170);
-    background: #0026ff;
+    background: #535c8f;
   }
 
   #mainNav.navbar-shrink {
@@ -10549,7 +10549,7 @@ a.text-dark:focus {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #0026ff;
+  color: #535c8f;
   opacity: 1;
 }
 
